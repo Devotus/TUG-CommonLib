@@ -1,0 +1,24 @@
+{
+    "Name": "CommonLib",
+    "Summary": "CommonLib",
+    "Description": "CommonLib",
+    "Website": "Devotus.github.io/TUG-CommonLib",
+    "Icon": "",
+    "Active": false,
+    "TargetGame": {
+        "Name": "TUG"
+    },
+    "Authors": [
+        {
+            "GitUsername": "JohnyCilohokla",
+            "NkUsername": "JohnyCilohokla",
+            "Email": "johnycilohokla@gmail.com"
+        }
+    ],
+    "Dependencies": [],
+    "Categories": [
+        "Library",
+        "Generation",
+        "Utility"
+    ]
+}
