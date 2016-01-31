@@ -21,7 +21,13 @@
     "Generation",
     "Utility"
   ],
-  "Media": [],
+  "Media": [
+    {
+      "Id": "ic2fefdc1-afc0-8a4f-411a-98020ec53d40",
+      "Src": "http://tug.ovh/CL/CL-logo.png",
+      "Caption": "Logo"
+    }
+  ],
   "Script": {
     "File": "Scripts/CommonLib.lua",
     "Class": "CommonLib"
