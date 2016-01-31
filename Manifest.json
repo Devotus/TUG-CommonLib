@@ -3,7 +3,6 @@
   "Summary": "CommonLib",
   "Description": "CommonLib",
   "Website": "Devotus.github.io/TUG-CommonLib",
-  "Icon": "http://tug.ovh/CL/CL-logo.png",
   "Active": true,
   "TargetGame": {
     "Name": "TUG"
@@ -28,6 +27,135 @@
       "Caption": "Logo"
     }
   ],
+  "Icon": "http://tug.ovh/CL/CL-logo.png",
+  "WebPage": {
+    "HeaderMedia": [
+      "va3786050-0c22-8b7f-e2bb-5183b6aa8114"
+    ],
+    "DetailMedia": [
+      "i180b916f-0fea-14f8-ffbe-f23b31b136ad"
+    ],
+    "DetailHidden": false,
+    "Sections": [
+      {
+        "Title": "Changes",
+        "Headline": "To change or add sections, edit the mod's manifest.",
+        "Icon": "forumbee",
+        "Columns": "1",
+        "Content": [
+          {
+            "Type": "Paragraph",
+            "Value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus arcu at dui congue iaculis. Morbi placerat lorem laoreet sem elementum, vel laoreet sem ultricies. Cras aliquam, libero molestie vehicula vulputate, dui est condimentum nisi, eget sodales erat sem sit amet lectus. Donec nec imperdiet felis, porttitor sollicitudin nulla. Donec ac vestibulum ligula. Nam cursus tristique massa, in tempus elit molestie a. Suspendisse metus dolor, cursus malesuada eros id, convallis bibendum magna. Nullam laoreet est ante, id ornare ante finibus non."
+          },
+          {
+            "Type": "Paragraph",
+            "Value": "Etiam eget tincidunt nulla. Proin auctor iaculis mauris, vitae sollicitudin velit. Morbi et odio lorem. Donec in nisi a erat pellentesque porttitor. Nam risus neque, sagittis eget urna a, efficitur vulputate nibh. Duis et sem eu leo condimentum dictum. Mauris a gravida dui. Donec pretium tortor ut pellentesque pharetra. Quisque posuere aliquet massa eu ornare. Vivamus tincidunt massa ac erat commodo tempus. Nunc a dui sed nisl cursus tincidunt ac ut mauris. Nulla elementum non lectus sit amet fermentum. Nunc ac velit et orci vestibulum pharetra. Nullam nec enim eleifend, dignissim quam vel, tincidunt tellus. Donec vel commodo augue."
+          },
+          {
+            "Type": "MediaElement",
+            "Height": 375,
+            "Width": 970,
+            "Caption": "",
+            "Items": [
+              "ic2fefdc1-afc0-8a4f-411a-98020ec53d40"
+            ]
+          }
+        ]
+      },
+      {
+        "Title": "Features",
+        "Headline": "",
+        "Icon": "cubes",
+        "Columns": "1",
+        "Content": [
+          {
+            "Type": "List",
+            "Items": [
+              "Awesome Feature 1",
+              "Spectacular Feature 2",
+              "Wonderful Feature 3",
+              "Crazy Feature 4",
+              "Mind-bending Feature 5"
+            ]
+          }
+        ],
+        "Background": "rgba(255,255,255,.4"
+      },
+      {
+        "Title": "Instructions",
+        "Headline": "",
+        "Icon": "wrench",
+        "Columns": "1",
+        "Content": [
+          {
+            "Type": "Tabs",
+            "Items": [
+              {
+                "Title": "Step 1",
+                "Icon": "bolt",
+                "Content": [
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus arcu at dui congue iaculis. Morbi placerat lorem laoreet sem elementum, vel laoreet sem ultricies. Cras aliquam, libero molestie vehicula vulputate, dui est condimentum nisi, eget sodales erat sem sit amet lectus. Donec nec imperdiet felis, porttitor sollicitudin nulla. Donec ac vestibulum ligula. Nam cursus tristique massa, in tempus elit molestie a. Suspendisse metus dolor, cursus malesuada eros id, convallis bibendum magna. Nullam laoreet est ante, id ornare ante finibus non."
+                  },
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Etiam eget tincidunt nulla. Proin auctor iaculis mauris, vitae sollicitudin velit. Morbi et odio lorem. Donec in nisi a erat pellentesque porttitor. Nam risus neque, sagittis eget urna a, efficitur vulputate nibh. Duis et sem eu leo condimentum dictum. Mauris a gravida dui. Donec pretium tortor ut pellentesque pharetra. Quisque posuere aliquet massa eu ornare. Vivamus tincidunt massa ac erat commodo tempus. Nunc a dui sed nisl cursus tincidunt ac ut mauris. Nulla elementum non lectus sit amet fermentum. Nunc ac velit et orci vestibulum pharetra. Nullam nec enim eleifend, dignissim quam vel, tincidunt tellus. Donec vel commodo augue."
+                  }
+                ]
+              },
+              {
+                "Title": "Step 2",
+                "Icon": "rocket",
+                "Content": [
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus arcu at dui congue iaculis. Morbi placerat lorem laoreet sem elementum, vel laoreet sem ultricies. Cras aliquam, libero molestie vehicula vulputate, dui est condimentum nisi, eget sodales erat sem sit amet lectus. Donec nec imperdiet felis, porttitor sollicitudin nulla. Donec ac vestibulum ligula. Nam cursus tristique massa, in tempus elit molestie a. Suspendisse metus dolor, cursus malesuada eros id, convallis bibendum magna. Nullam laoreet est ante, id ornare ante finibus non."
+                  },
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Etiam eget tincidunt nulla. Proin auctor iaculis mauris, vitae sollicitudin velit. Morbi et odio lorem. Donec in nisi a erat pellentesque porttitor. Nam risus neque, sagittis eget urna a, efficitur vulputate nibh. Duis et sem eu leo condimentum dictum. Mauris a gravida dui. Donec pretium tortor ut pellentesque pharetra. Quisque posuere aliquet massa eu ornare. Vivamus tincidunt massa ac erat commodo tempus. Nunc a dui sed nisl cursus tincidunt ac ut mauris. Nulla elementum non lectus sit amet fermentum. Nunc ac velit et orci vestibulum pharetra. Nullam nec enim eleifend, dignissim quam vel, tincidunt tellus. Donec vel commodo augue."
+                  },
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Etiam eget tincidunt nulla. Proin auctor iaculis mauris, vitae sollicitudin velit. Morbi et odio lorem. Donec in nisi a erat pellentesque porttitor. Nam risus neque, sagittis eget urna a, efficitur vulputate nibh. Duis et sem eu leo condimentum dictum. Mauris a gravida dui. Donec pretium tortor ut pellentesque pharetra. Quisque posuere aliquet massa eu ornare. Vivamus tincidunt massa ac erat commodo tempus. Nunc a dui sed nisl cursus tincidunt ac ut mauris. Nulla elementum non lectus sit amet fermentum. Nunc ac velit et orci vestibulum pharetra. Nullam nec enim eleifend, dignissim quam vel, tincidunt tellus. Donec vel commodo augue."
+                  }
+                ]
+              },
+              {
+                "Title": "Step 3",
+                "Icon": "bullseye",
+                "Content": [
+                  {
+                    "Type": "Paragraph",
+                    "Value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus arcu at dui congue iaculis. Morbi placerat lorem laoreet sem elementum, vel laoreet sem ultricies. Cras aliquam, libero molestie vehicula vulputate, dui est condimentum nisi, eget sodales erat sem sit amet lectus. Donec nec imperdiet felis, porttitor sollicitudin nulla. Donec ac vestibulum ligula. Nam cursus tristique massa, in tempus elit molestie a. Suspendisse metus dolor, cursus malesuada eros id, convallis bibendum magna. Nullam laoreet est ante, id ornare ante finibus non."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Theme": {
+      "Name": "Nerd Kingdom",
+      "Layout": "Scroll",
+      "HideNavBar": false,
+      "Primary": {
+        "Color": "#175ba5",
+        "Text": "#ffffff"
+      },
+      "Secondary": {
+        "Color": "#d7e1e7",
+        "Text": "#333333"
+      },
+      "Body": {
+        "Color": "#E1E1E1",
+        "Text": "#333333",
+        "Background": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATElEQVQYV2N8+e7jfwYoEBfiZ4SxYTRMnhFZIUgSl2IMhbgUg61CNxWbYribCClGcTw+xTh9iex7kAcxFOJyM9jX+MIPZjI8eAgpBgAi7zbuVcN9gQAAAABJRU5ErkJggg==)"
+      }
+    }
+  },
   "Script": {
     "File": "Scripts/CommonLib.lua",
     "Class": "CommonLib"
