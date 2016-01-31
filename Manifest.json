@@ -3,7 +3,7 @@
   "Summary": "CommonLib",
   "Description": "CommonLib",
   "Website": "Devotus.github.io/TUG-CommonLib",
-  "Icon": "",
+  "Icon": "http://tug.ovh/CL/CL-logo.png",
   "Active": true,
   "TargetGame": {
     "Name": "TUG"
